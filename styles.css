@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+img {
+  background-position: right top;
+  height: 180px;
+  width: 40%;
+}
+
+container {
+  
+}
+
+#divpesquisar{
+  background-color:white;
+  border:solid 2px black;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+
+#txtpesquisar{
+  float:center;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  border:blac;
+  height:32px;
+  width:500px;
+}
+
+}
+
+#btnpesquisar{
+  border:none;
+  float:leright;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:70px;
+  font-weight:bold;
+  background:black;
+}
+
+#divpesquisar img{
+  float:left;
+}
